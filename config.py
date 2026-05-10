@@ -1,0 +1,4 @@
+# config.py
+
+TUSHARE_TOKEN = "c24e98519ec99e37de15c0b596b7130f4fa690e996ad2a6cf689158f"
+
