@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+torch
+transformers
+plotly
+tushare
+akshare
+matplotlib
+scikit-learn
